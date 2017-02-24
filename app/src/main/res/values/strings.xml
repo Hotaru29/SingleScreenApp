@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SingleScreenApp</string>
+    <string name="picture_of_the_sports">Picture Of SportsCafe</string>
+    <string name="bussiness_name">SportsCafe - Sports Media Company</string>
+    <string name="address">Purva Skywood, Harlur Road, HSR Extension, Bengaluru, Karnataka 560102</string>
+    <string name="phone_number">080 4204 7857</string>
+    <string name="description">Redefining Sports Coverage in India. We are “Money Ball” meets “Source Code“ - Our team consists of some of the most talented upcoming sports journalists and writers covering the latest developments in sports, aided by a talented tech team who are providing better visual tools and interface to approach these realms while also having a heady mix of ex-consultants and bankers who keen to put the best of their own learnings into driving what makes Media 2.0 work. What unites the team in spite of such differences in background is a simple one - we are all fans of the various sports we want to speak to you about. It is this desire to listen and present from a fan’s perspective which makes us special and hopefully unique in this industry.”</string>
+    <string name="icon_address">Adress</string>
+    <string name="icon_phone">Phone</string>
 </resources>
