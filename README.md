@@ -14,6 +14,6 @@ Design and implement a single screen app that displays information about a ficti
 
 ## Final Output - Screenshots
 
-Screen 1                                                      |  Screen 2
-:------------------------------------------------------------:|:----------------------------------------------------:
-![](SingleScreenApp/blob/master/app/screenshots/screen1.png)  |  ![](SingleScreenApp/app/screenshots/screen2.png)
+Screen 1                          |  Screen 2
+:--------------------------------:|:--------------------------------:
+![](app/screenshots/screen1.png)  |  ![](app/screenshots/screen2.png)
