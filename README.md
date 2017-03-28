@@ -14,4 +14,6 @@ Design and implement a single screen app that displays information about a ficti
 
 ## Final Output - Screenshots
 
-![Alt text](app/screenshots/screen1.png?raw=true "First Screen") ![Alt text](app/screenshots/screen2.png?raw=true "Screen Screen")
+Screen 1                                                      |  Screen 2
+:------------------------------------------------------------:|:----------------------------------------------------:
+![](SingleScreenApp/blob/master/app/screenshots/screen1.png)  |  ![](SingleScreenApp/app/screenshots/screen2.png)
