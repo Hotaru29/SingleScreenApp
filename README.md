@@ -18,3 +18,7 @@ Design and implement a single screen app that displays information about a ficti
 Screen 1                          |Screen 2
 :--------------------------------:|:--------------------------------:
 ![](app/screenshots/screen1.png)  |![](app/screenshots/screen2.png)
+
+
+# Download
+You can download the apk here [SingleScreenApp](app/build/outputs/app-debug.apk)
