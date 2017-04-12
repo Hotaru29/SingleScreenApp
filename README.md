@@ -21,4 +21,4 @@ Screen 1                          |Screen 2
 
 
 # Download
-You can download the apk here [SingleScreenApp](app/screenshots/app-debug.apk)
+You can download the apk here [SingleScreenApp](https://github.com/sinhaDroid/SingleScreenApp/releases/app-debug.apk)
